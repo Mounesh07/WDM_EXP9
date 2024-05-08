@@ -1,6 +1,6 @@
 # EXP: 9 PREPROCESSING TECHNIQUE ON TWITTER DATA USING RAPIDMINER </H1>
 
-<H3>DATE  : 13.04.2024 </H3>
+## DATE: 
 
 ## AIM:
 To implement preprocessing technique on Twitter Data using Rapidminer
